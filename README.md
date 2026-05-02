@@ -15,7 +15,7 @@ Power BI: Data visualization & DAX.
 
 Power Query: ETL (Data cleaning and merging).
 
-Excel: Source dataset ("Store+Data (1).xlsx").
+Excel: Source dataset ("Store+Data.xlsx").
 
 ## 📊 Quick Inferences
 Total Transactions: 3,510
